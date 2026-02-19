@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Login - Área do Corretor - Rassan Seguros. Acesse ferramentas, gerencie clientes e acompanhe comissões.">
+    <meta name="keywords" content="login corretor, área do corretor, Rassan Seguros, gestão de apólices">
+    <meta name="author" content="Rafael Sanguini Colagrossi">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="stylesheet" href="style.css">
+    <title>Login - Rassan Seguros</title>
+</head>
+<body>
+    <main>
+        <section>
+            <header>
+                <div class="logoRassan">
+                    <a href="index.html">
+                        <img src="https://www.rassanseguros.com.br/imgs/logo.png" alt="Logo Rassan Seguros" width="25%">
+                    </a>
+                </div>
+                <div>
+                    <p>
+                        <strong>Área Exclusiva do Corretor</strong>
+                    </p>
+                </div>
+            </header>
+        </section> 
+        <section>
+            <article>
+                <form action="corretor.html">
+                    <fieldset>
+                        <div></div>
+                            <h2>Portal do Corretor</h2>
+                            <div>
+                                <p>Coloque suas credenciais nas lacunas abaixo</p>
+                            </div>
+                        </div>
+                        <div>
+                            <p>
+                                <label for="codigo_corretor">
+                                    <strong>Código do Corretor:</strong>
+                                </label>
+                                <br>
+                                <input 
+                                    type="text" 
+                                    id="codigo_corretor" 
+                                    name="codigo_corretor" 
+                                    placeholder="Ex: COR-12345" 
+                                    required
+                                    pattern="COR-\d{5}"
+                                    title="Digite seu código no formato: COR-12345"
+                                    maxlength="10"
+                                >
+                                <br>
+                            </p>
+                        </div>  
+                        <div>
+                            <p> 
+                                <label for="senha">
+                                    <strong>Senha:</strong>
+                                </label>
+                                <br>
+                                <input 
+                                    type="password" 
+                                    id="senha" 
+                                    name="senha" 
+                                    placeholder="Digite sua senha" 
+                                    required
+                                    minlength="3"
+                                >
+                            </p>
+                        </div>
+                        <div>
+                            <p>
+                            <input type="checkbox" width="5%"> &nbsp; Lembre-me mais tarde
+                            </p>
+                        </div>
+                        <div>
+                            <p>
+                                <a href="corretor.html">
+                                    <button type="submit">Acessar Sistema</button>
+                                </a>
+                            </p>
+                        </div>
+                        <div>
+                            <small>*Todos os campos são obrigatórios</small>
+                        </div>    
+                    </fieldset>
+                </form>
+            </article>
+        </section>
+        <div>
+            <div>
+                <h2>Ajuda</h2>
+            </div>
+            <div>
+                <button>
+                        <h3>Primeiro Acesso</h3>
+                        <p>Clique aqui para o seu primeiro acesso após ser cadastrado como corretor.</p>
+                </button>
+            </div>
+            <div>
+                <a href="https://api.whatsapp.com/send/?phone=5511999362752&text&type=phone_number&app_absent=0" target="_blank">
+                    <button>
+                        <h3>Quero ser Parceiro</h3>
+                        <p>Entre em contato conosco para se tornar um corretor parceiro Rassan.</p>
+                    </button>
+                </a>
+            </div>
+            <div>
+                <a href="recuperarsenha_corretor.html">
+                    <button>
+                        <h3>Esqueceu sua senha?</h3>
+                        <p>Clique aqui para poder recuperá-la.</p>
+                    </button>
+                </a>
+            </div>
+            <div>
+                <a href="suportelogin_corretor.html">
+                    <button>
+                        <h3>Problemas com o login</h3>
+                        <p>O Suporte Técnico para Corretores está semepre à disposição.</p>
+                    </button>
+                </a>
+            </div>
+        </div>
+        <hr>
+    </main>
+</body>
+</html>
