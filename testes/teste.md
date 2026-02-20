@@ -1,11 +1,13 @@
 Este arquivo foi criado especificamente para ser colocado a estrutura completa do site(em forma de "protótipo") e as ideias que serão implementadas ou debatidas
 pelos Dev's da equipe. 
 <br>
+<br>
 <u>-Cada página do site será descrito por etapas.</u>
 <br>
-<u>Ao adicionar uma ideia para a página, é obrigatório o uso do caractere "*" antes de apresentar a ideia, para assim, ficar mais fácil a identificação.</u>
+<u>-Ao adicionar uma ideia para a página, é obrigatório o uso do caractere "*" antes de apresentar a ideia, para assim, ficar mais fácil a identificação.</u>
 <hr>
 
+<br>
 <ul>
   <header>----- Página de início ------ (*2)</header>
   <li>logo da Rassan no canto inferior esquerdo</li>
@@ -17,7 +19,8 @@ pelos Dev's da equipe.
   *alteração ou remoção da imagem ao final da página
   *adição de efeito para deixar a página mais moderna 
 </ul>
-
+<br>
+<br>
 <ul>
   <header>------ Aviso Corretor ------ (*3)</header>
   <li>imagem de uma seta para trás no canto superior esquerdo, endereçada para voltar para a página inicial (seta branca, fundo azul)</li>
@@ -31,7 +34,8 @@ pelos Dev's da equipe.
   <li>*deixar o fundo borrado </li>
   <li>*deixar testo de explicação mais bonito </li>
 </ul>
-
+<br>
+<br>
 <ul></ul>
   <header>------ Login Corretor ------ (*5)</header>
   <li>logo Rassan no canto superior esquerdo</li>
@@ -54,13 +58,14 @@ pelos Dev's da equipe.
         <li> botão de "Esqueci a senha"</li>
         <li> botão de "Problemas com o login"</li>
       </ul>
-    <li>
+    </li>
   <li>*trocar botão "Quero ser parceiro", adicionando na página de cliente</li>
   <li>*deixar mais moderno com animaçoes e efeitos </li>
   <li>*rever a parte do "Primeiro acesso"</li>
   <li>*pensar em botões para alterar caso algum não faça sentido estar nessa página</li>
   <li>*rever requisito de código do corretor</li>
-
+<br>
+<br>
 <ul>
   <header>------ Menu do Corretor ------</header>
   <li>logo Rassan na parte superior esquerda da página</li>
@@ -75,4 +80,5 @@ pelos Dev's da equipe.
   <li>*tirar "Meus" no botão de clientes da barra de menu</li>
   <li>*adicionar um botão de menu/início na barra de menu</li>
 </ul>
+
 
