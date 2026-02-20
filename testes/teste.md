@@ -3,16 +3,16 @@ pelos Dev's da equipe.
 /Cada página do site será descrito por etapas.
 /Ao adicionar uma ideia para a página, é obrigatório o uso do caractere "*" antes de apresentar a ideia, para assim, ficar mais fácil a identificação.
 
------- Página de início ------ (*2)
-  -logo da Rassan no canto inferior esquerdo
-  -frase de "Bem vindo à Rassan Seguros!" ("Rassan Seguros" em azul)
+<ul>----- Página de início ------ (*2)
+  <li>-logo da Rassan no canto inferior esquerdo</li>
+  <li>-frase de "Bem vindo à Rassan Seguros!" ("Rassan Seguros" em azul)</li>
   -frase de "Aqui sua segurança é nossa prioridade." (em bege)
   -botão de Cliente (fundo azul)
   -botão de Corretor (fundo branco)
   -imagem de prédios ao final da página
   *alteração ou remoção da imagem ao final da página
   *adição de efeito para deixar a página mais moderna 
-
+</ul>
 
 ------ Aviso Corretor ------ (*3)
   -imagem de uma seta para trás no canto superior esquerdo, endereçada para voltar para a página inicial (seta branca, fundo azul)
@@ -62,3 +62,4 @@ pelos Dev's da equipe.
   *rever frase "Área exclusiva do corretor"
   *tirar "Meus" no botão de clientes da barra de menu
   *adicionar um botão de menu/início na barra de menu 
+
