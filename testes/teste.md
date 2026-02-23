@@ -16,8 +16,8 @@ pelos Dev's da equipe.
   <li>botão de Cliente (fundo azul)</li>
   <li>botão de Corretor (fundo branco)</li>
   <li>imagem de prédios ao final da página</li>
-  *alteração ou remoção da imagem ao final da página
-  *adição de efeito para deixar a página mais moderna 
+  <li>*alteração ou remoção da imagem ao final da página</li>
+  <li>*adição de efeito para deixar a página mais moderna </li>
 </ul>
 <br>
 <br>
@@ -75,10 +75,36 @@ pelos Dev's da equipe.
   <li>frase motivacional (em seguida da frase anterior)</li>
   <li>frase Área exclusiva do corretor (na direita e fundo azul)</li>
   <li>linha de divisão</li>
-  <li>frase de 
+  <li>frase de "Seu desempenho do mês":
+    <ul>
+      <li>frase "acompanhe suas métricas e resultados de cada mês:</li>
+      <ul>
+        <header>Foto comissão e escrito "Comissão"</header>
+        <li>Número atual de comissão</li>
+        <li>barra de contagem</li>
+        <li>comissão meta: R$xxx,xxx</li>
+      </ul>
+      <ul>
+        <header>imagem de clientes e escrita "clientes"</header>
+        <li>número de clientes atuais</li>
+        <li>número de clientes adicionados</li>
+        <li>botão para ver todos os clientes</li>
+      </ul>
+      <ul>
+        <header>imagem e escrita de "renovações pendentes"</header>
+        <li>número de renovações pendentes</li>
+        <li>botão de ver renovações</li>
+      </ul>
+    </ul>
+  <li>linha de divisão</li>
+  <
+  <ul>
+    
+  </ul>
   <li>*rever frase "Área exclusiva do corretor"</li>
   <li>*tirar "Meus" no botão de clientes da barra de menu</li>
   <li>*adicionar um botão de menu/início na barra de menu</li>
 </ul>
+
 
 
